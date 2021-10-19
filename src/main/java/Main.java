@@ -11,6 +11,7 @@ public class Main {
 
     }
 
+    /*MASTER COMMENT*/
     private void dummyMeth() {
 
     }
