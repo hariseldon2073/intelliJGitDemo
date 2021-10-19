@@ -6,5 +6,11 @@ public class Main {
     private void doTest() {
 
     }
+
+    private void doTest(String name) {
+
+    }
+
+
 }
 
