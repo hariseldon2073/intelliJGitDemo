@@ -12,7 +12,7 @@ public class Main {
 
     }
 
-    /*BRANCH COMMENT 999 */
+    /*BRANCH COMMENT 1000 */
     private void dummyMeth() {
 
     }
