@@ -7,7 +7,7 @@ public class Main {
 
     }
 
-    /*BRANCH COMMENT*/
+    /*BRANCH COMMENT 002*/
     private void doTest(String name) {
 
     }
